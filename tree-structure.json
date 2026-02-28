@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "name": "Getting Started",
+    "type": "topic",
+    "content": {
+      "title": "Getting Started",
+      "blocks": [
+        {
+          "id": "b1",
+          "type": "text",
+          "label": "Welcome! 👋",
+          "content": "Start taking notes by editing this topic or creating new ones from the sidebar."
+        }
+      ]
+    }
+  }
+]
