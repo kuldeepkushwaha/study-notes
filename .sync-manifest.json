@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "lastFullSync": 1772274960416,
+  "lastFullSync": 1772274988718,
   "files": {
     "1": {
       "path": "notes/getting-started.md",
       "sha": "",
-      "repo": "private",
+      "repo": "public",
       "nodeId": "1",
-      "lastSynced": 1772274960417
+      "lastSynced": 1772274988718
     }
   },
-  "treeSha": null,
-  "manifestSha": null
+  "treeSha": "236dd3e37d8b74821af0fb96d03f83fdb5165fcc",
+  "manifestSha": "35615f4a5f6e67cd21cfac163cb12932ced25e0d"
 }
