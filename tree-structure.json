@@ -14,5 +14,21 @@
         }
       ]
     }
+  },
+  {
+    "id": "1772275020590",
+    "name": "New Folder",
+    "type": "folder",
+    "children": [
+      {
+        "id": "1772275025252",
+        "name": "New Topic",
+        "type": "topic",
+        "content": {
+          "title": "New Topic",
+          "blocks": []
+        }
+      }
+    ]
   }
 ]

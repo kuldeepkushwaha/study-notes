@@ -1,15 +1,22 @@
 {
   "version": 1,
-  "lastFullSync": 1772274988718,
+  "lastFullSync": 1772275027700,
   "files": {
     "1": {
       "path": "notes/getting-started.md",
       "sha": "",
       "repo": "public",
       "nodeId": "1",
-      "lastSynced": 1772274988718
+      "lastSynced": 1772275027700
+    },
+    "1772275025252": {
+      "path": "notes/new-folder/new-topic.md",
+      "sha": "",
+      "repo": "public",
+      "nodeId": "1772275025252",
+      "lastSynced": 1772275027700
     }
   },
   "treeSha": "236dd3e37d8b74821af0fb96d03f83fdb5165fcc",
-  "manifestSha": "35615f4a5f6e67cd21cfac163cb12932ced25e0d"
+  "manifestSha": "e6244d6158e8f6a95880faee1aa95cdffc0f0286"
 }
