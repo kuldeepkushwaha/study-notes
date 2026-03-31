@@ -52,6 +52,34 @@
                 }
               ]
             }
+          },
+          {
+            "id": "1774974842607",
+            "name": "ITIL Core Concept",
+            "type": "topic",
+            "content": {
+              "title": "ITIL Core Concept",
+              "blocks": [
+                {
+                  "id": "1774975612177",
+                  "type": "text",
+                  "label": "Type of services",
+                  "content": "1) Core Services\n2) Enabling Services\n3) Enhancing Services\n\n-> Core Services: \n It is a service that must be there for any value to be delivered\n-> Enabling Service\nIt is a service that must be place for a core service to be delivered.\n-> Enhancing Services:\nService that are added to  the core services to make it more enticing to the customer are called Enhancing Services"
+                },
+                {
+                  "id": "1774976182224",
+                  "type": "text",
+                  "label": "Service Asset",
+                  "content": "Service asset consist  of capablities and resources that the organizational use to deliver the value in the form of service\n\nType of service provider:\nInternal service provider- for every domain they have there own IT team manage internally, and also they can be internally centralized.\nExtranal service provider - act as intermediate between customer and company which provide service. let say example tcs proviode service to db,passport kendr etc.\n"
+                },
+                {
+                  "id": "1774981834663",
+                  "type": "text",
+                  "label": "Key param of ITIL",
+                  "content": "Process - a structural set of activies  designed to accomplish  a specify objective\nFunction - team or group of people  and tools they use to  carry out the process and acitivty\nrole - Played by individual to within function  when performing process."
+                }
+              ]
+            }
           }
         ]
       },

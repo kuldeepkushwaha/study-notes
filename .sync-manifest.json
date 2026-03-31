@@ -1,22 +1,29 @@
 {
   "version": 1,
-  "lastFullSync": 1774974704612,
+  "lastFullSync": 1774982035691,
   "files": {
     "1": {
       "path": "notes/getting-started.md",
       "sha": "",
       "repo": "public",
       "nodeId": "1",
-      "lastSynced": 1774974704613
+      "lastSynced": 1774982035691
     },
     "1774973172225": {
       "path": "notes/tcs-wings/process/basics-of-itil---reference-document.md",
       "sha": "",
       "repo": "public",
       "nodeId": "1774973172225",
-      "lastSynced": 1774974704614
+      "lastSynced": 1774982035691
+    },
+    "1774974842607": {
+      "path": "notes/tcs-wings/process/itil-core-concept.md",
+      "sha": "",
+      "repo": "public",
+      "nodeId": "1774974842607",
+      "lastSynced": 1774982035691
     }
   },
-  "treeSha": "a7fe184d010187415f72712243cbbc324e068e26",
-  "manifestSha": "09c072171c94fdaa92339cc5517a2d1621c42421"
+  "treeSha": "f6dc6aa573d225d52ae09095135da8ef79069e32",
+  "manifestSha": "53c340ead8f45c8a8b191b252059bb6220104588"
 }
