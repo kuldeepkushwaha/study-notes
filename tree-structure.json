@@ -42,7 +42,13 @@
                   "id": "1774973431676",
                   "type": "text",
                   "label": "ITSM",
-                  "content": "Information technology and service management."
+                  "content": "Information technology and service management.\n\nDefination: ITSM is set of organizational capablities to provide the value to the customer throught services.\n\nWhat is Service:  Service is a mean of delivering the value to the customer by faciliating the outcomes that the customer want to achieve without the ownership of specfic cost and risk.\n"
+                },
+                {
+                  "id": "1774973901191",
+                  "type": "text",
+                  "label": "ITIL",
+                  "content": "Information technology and infrastructure library.\nDefination : ITIL is a set of pratices for IT service management that focus on alignment the IT service with the needs of business.\n\nIt is framework which help below:\n-> Increase the productivity\n-> Lower IT cost\n-> Improving service\n\nHistory of ITIL:\nOrginally developed in 1980's by UK Goverment agency  - CCTA( forerunner of OGC)\n* Central computer telecommunication agency.\n* Office of goverment commerce\n\nSince Jan 2014 ITIL is owned and managed by axelos\n\nVersion:\n1980's - Infrastructure management grew into more that 30 books cover specfic aspect of IT service and provision (version 1)\n2001 - Intial version was reviesed and  replace by 9 books  focus on service delivery and support.(version 2)\n2007 - 5 core book focus on service lifecycle approach (version 3)\n2011 - Improved clarity and consistency (version 4)\n\ncomapny used ITIL frame work\n1) Microsoft\n2) Atos\n3) shell\n4) IBM\n\n\n"
                 }
               ]
             }
