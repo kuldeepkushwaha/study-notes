@@ -1,36 +1,36 @@
 {
   "version": 1,
-  "lastFullSync": 1775253831511,
+  "lastFullSync": 1775254384380,
   "files": {
     "1": {
       "path": "notes/getting-started.md",
       "sha": "",
       "repo": "public",
       "nodeId": "1",
-      "lastSynced": 1775253831512
+      "lastSynced": 1775254384381
     },
     "1774973172225": {
       "path": "notes/tcs-wings/process/basics-of-itil---reference-document.md",
       "sha": "",
       "repo": "public",
       "nodeId": "1774973172225",
-      "lastSynced": 1775253831512
+      "lastSynced": 1775254384381
     },
     "1774974842607": {
       "path": "notes/tcs-wings/process/itil-core-concept.md",
       "sha": "",
       "repo": "public",
       "nodeId": "1774974842607",
-      "lastSynced": 1775253831512
+      "lastSynced": 1775254384381
     },
     "1775253250431": {
       "path": "notes/tcs-wings/process/strategy-management-and-service-portfolio-management.md",
       "sha": "",
       "repo": "public",
       "nodeId": "1775253250431",
-      "lastSynced": 1775253831513
+      "lastSynced": 1775254384381
     }
   },
-  "treeSha": "8c883f04126f109c9d449c3e6442e4667939730b",
-  "manifestSha": "b30604ca61d52651d99feff6ee6079b5b39c70c4"
+  "treeSha": "359e1130558dd0a03454101f9f7cc8470277e86d",
+  "manifestSha": "0f64ff7a96c0ec1215ba37e275d499dc658cf5ce"
 }
