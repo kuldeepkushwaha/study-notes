@@ -117,6 +117,12 @@
                   "type": "image",
                   "label": "",
                   "content": "https://i.ibb.co/5x6vKSLm/image.png"
+                },
+                {
+                  "id": "1775254823104",
+                  "type": "text",
+                  "label": "Service Portfolio managment",
+                  "content": "Defination - Service portfolio  describe the servics of a providerin in terms of values to the business.\n\nPropose of Service portfoliio managment:\nThe purpose of service portfolio management  (SPM) is to  create manage improve  a service portfolio contain detail design package for each IT services\n\nSPM helps to \n1) Decide the  services to offer and to whom.\n2) Maintain a definatvie portfolio of all services provided.\n3) Control under what condition services are offered and at what level of investment.\n4) Track the investment in services througout their lifecycle\n\nParts of SPM \n1) Service pipeline\n2) Service catalogue\n3) Retired Services\n\nKey activity of SPM \n Define -> Analyze->  Approve -> charter ->Define"
                 }
               ]
             }
