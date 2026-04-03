@@ -148,6 +148,34 @@
                 }
               ]
             }
+          },
+          {
+            "id": "1775256058214",
+            "name": "Financial Managment of IT services",
+            "type": "topic",
+            "content": {
+              "title": "Financial Managment of IT services",
+              "blocks": [
+                {
+                  "id": "1775256104864",
+                  "type": "text",
+                  "label": "Defination",
+                  "content": "Financial Management ;process involves managing the finances where:\n-> IT secures the budget\n-> Understand where the money actually went\n->Bills the cutomer if needed"
+                },
+                {
+                  "id": "1775256237731",
+                  "type": "text",
+                  "label": "Key Activities",
+                  "content": "1)  Accounting\n2)  Budgeting\n3) charing\n\nwhat is accounting ?\n An efficeint accouting process increases IT  service provision define areas where cost saving can be made. It comprise the serveral cost elements\n\nwhat is budgeting\nInvolveing the predecting and controlling expenditure within the organization.\n\nWhat is charing \nProcess of billing the customer for the service rendered."
+                },
+                {
+                  "id": "1775256495718",
+                  "type": "text",
+                  "label": "Business Relationship Manager(BRM)",
+                  "content": "Business relationship mamangement process introduces a role called business relationship manager who will be the face of IT.\n\nsub process\n1) Maintain customer relationship\n2) Identify services requirement\n3) sign up customers to standard services\n4) customer satisfaction survey\n5) Handling customer complaints\n6) Monitoring customer complaints\n"
+                }
+              ]
+            }
           }
         ]
       },
