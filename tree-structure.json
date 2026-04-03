@@ -80,6 +80,22 @@
                 }
               ]
             }
+          },
+          {
+            "id": "1775253250431",
+            "name": "Strategy Management and Service Portfolio Management",
+            "type": "topic",
+            "content": {
+              "title": "Strategy Management and Service Portfolio Management",
+              "blocks": [
+                {
+                  "id": "1775253287173",
+                  "type": "text",
+                  "label": "Strategy Management Activities",
+                  "content": "4 Major activities in statege management\n1) Market definition\n2) Develop offering \n3) Develop Strategic asset\n4) Prepare for execution\n"
+                }
+              ]
+            }
           }
         ]
       },
