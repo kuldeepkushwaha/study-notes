@@ -133,7 +133,20 @@
             "type": "topic",
             "content": {
               "title": "Demand Management",
-              "blocks": []
+              "blocks": [
+                {
+                  "id": "1775255686875",
+                  "type": "text",
+                  "label": "Demand Management play's key role in Service management",
+                  "content": "1) Anticipate future demand\n2) Align suppy with demand\n3)  Provide just enough capacity for server to meet the agreed service levels .\n    a) Too much capacity is a wasted cost\n    b) Too little capacity puts service at risk\n"
+                },
+                {
+                  "id": "1775255846120",
+                  "type": "text",
+                  "label": "Pattern of Business Activity",
+                  "content": "Attributes to describe PBA \n1) Frequency \n2) Volume \n3) Location \n4) Duration"
+                }
+              ]
             }
           }
         ]
