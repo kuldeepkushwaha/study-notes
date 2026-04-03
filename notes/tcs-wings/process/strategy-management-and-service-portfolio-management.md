@@ -37,6 +37,10 @@
 
 ## Strategy management sub-process
 
+1) Strategic assestment
+2) Strategy generation
+3) strategy execution
+4) contual serve improvement
 
 
 ---
