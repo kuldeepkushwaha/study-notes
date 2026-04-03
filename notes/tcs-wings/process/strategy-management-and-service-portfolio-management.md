@@ -34,3 +34,15 @@
 
 
 ---
+
+## Strategy management sub-process
+
+
+
+---
+
+## 🖼️ Image
+
+![Image](https://i.ibb.co/5x6vKSLm/image.png)
+
+---
