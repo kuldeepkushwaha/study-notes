@@ -1,57 +1,57 @@
 {
   "version": 1,
-  "lastFullSync": 1775284000928,
+  "lastFullSync": 1775284644053,
   "files": {
     "1": {
       "path": "notes/getting-started.md",
       "sha": "",
       "repo": "public",
       "nodeId": "1",
-      "lastSynced": 1775284000929
+      "lastSynced": 1775284644054
     },
     "1774973172225": {
       "path": "notes/tcs-wings/process/basics-of-itil---reference-document.md",
       "sha": "",
       "repo": "public",
       "nodeId": "1774973172225",
-      "lastSynced": 1775284000929
+      "lastSynced": 1775284644054
     },
     "1774974842607": {
       "path": "notes/tcs-wings/process/itil-core-concept.md",
       "sha": "",
       "repo": "public",
       "nodeId": "1774974842607",
-      "lastSynced": 1775284000929
+      "lastSynced": 1775284644054
     },
     "1775253250431": {
       "path": "notes/tcs-wings/process/strategy-management-and-service-portfolio-management.md",
       "sha": "",
       "repo": "public",
       "nodeId": "1775253250431",
-      "lastSynced": 1775284000929
+      "lastSynced": 1775284644054
     },
     "1775255568191": {
       "path": "notes/tcs-wings/process/demand-management.md",
       "sha": "",
       "repo": "public",
       "nodeId": "1775255568191",
-      "lastSynced": 1775284000929
+      "lastSynced": 1775284644054
     },
     "1775256058214": {
       "path": "notes/tcs-wings/process/financial-managment-of-it-services.md",
       "sha": "",
       "repo": "public",
       "nodeId": "1775256058214",
-      "lastSynced": 1775284000929
+      "lastSynced": 1775284644054
     },
     "1775283192162": {
       "path": "notes/tcs-wings/process/service-design.md",
       "sha": "",
       "repo": "public",
       "nodeId": "1775283192162",
-      "lastSynced": 1775284000929
+      "lastSynced": 1775284644054
     }
   },
-  "treeSha": "aee9e0dfbff57dba02869edea558ba8c1ab4b26c",
-  "manifestSha": "773a4794cb3880c78636293c4ca11ed308f20737"
+  "treeSha": "58c8443ab3a2792cfee1c707a04b8139af68d9f0",
+  "manifestSha": "3cf9634e541ae4401cf1decef4de7fa0480e1957"
 }

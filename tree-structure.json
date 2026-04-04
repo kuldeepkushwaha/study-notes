@@ -195,6 +195,18 @@
                   "type": "text",
                   "label": "Five aspect of service design",
                   "content": "STAMP\n1) Solution \n2) Tool\n3) Architecture\n4) Measurement system and Metrics\n5) Designing the process needed"
+                },
+                {
+                  "id": "1775284100435",
+                  "type": "text",
+                  "label": "4 P's of service design",
+                  "content": "1) People - right people , right skill, right knowledge\n2) Process - Manage and support the services to meet the customer expectation and agreed service levels\n3) Product - Technology Management system utilize in the process of IT service delivery.\n4) Partners - Vendors , Third party software companies, Manufacturers , and suppliers involved in the provision of IT services"
+                },
+                {
+                  "id": "1775284458748",
+                  "type": "text",
+                  "label": "Key process in service design",
+                  "content": "1) Design coordinates \n2) Service level management\n3) Availability management\n4) Capacity Management\n5) IT service continuity management\n6) Service catalogue management\n7) Supplier management\n8) Information security managment."
                 }
               ]
             }

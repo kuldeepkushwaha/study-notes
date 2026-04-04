@@ -25,3 +25,25 @@ STAMP
 5) Designing the process needed
 
 ---
+
+## 4 P's of service design
+
+1) People - right people , right skill, right knowledge
+2) Process - Manage and support the services to meet the customer expectation and agreed service levels
+3) Product - Technology Management system utilize in the process of IT service delivery.
+4) Partners - Vendors , Third party software companies, Manufacturers , and suppliers involved in the provision of IT services
+
+---
+
+## Key process in service design
+
+1) Design coordinates 
+2) Service level management
+3) Availability management
+4) Capacity Management
+5) IT service continuity management
+6) Service catalogue management
+7) Supplier management
+8) Information security managment.
+
+---
