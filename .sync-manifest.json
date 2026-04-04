@@ -1,50 +1,57 @@
 {
   "version": 1,
-  "lastFullSync": 1775257152139,
+  "lastFullSync": 1775284000928,
   "files": {
     "1": {
       "path": "notes/getting-started.md",
       "sha": "",
       "repo": "public",
       "nodeId": "1",
-      "lastSynced": 1775257152139
+      "lastSynced": 1775284000929
     },
     "1774973172225": {
       "path": "notes/tcs-wings/process/basics-of-itil---reference-document.md",
       "sha": "",
       "repo": "public",
       "nodeId": "1774973172225",
-      "lastSynced": 1775257152139
+      "lastSynced": 1775284000929
     },
     "1774974842607": {
       "path": "notes/tcs-wings/process/itil-core-concept.md",
       "sha": "",
       "repo": "public",
       "nodeId": "1774974842607",
-      "lastSynced": 1775257152139
+      "lastSynced": 1775284000929
     },
     "1775253250431": {
       "path": "notes/tcs-wings/process/strategy-management-and-service-portfolio-management.md",
       "sha": "",
       "repo": "public",
       "nodeId": "1775253250431",
-      "lastSynced": 1775257152139
+      "lastSynced": 1775284000929
     },
     "1775255568191": {
       "path": "notes/tcs-wings/process/demand-management.md",
       "sha": "",
       "repo": "public",
       "nodeId": "1775255568191",
-      "lastSynced": 1775257152139
+      "lastSynced": 1775284000929
     },
     "1775256058214": {
       "path": "notes/tcs-wings/process/financial-managment-of-it-services.md",
       "sha": "",
       "repo": "public",
       "nodeId": "1775256058214",
-      "lastSynced": 1775257152139
+      "lastSynced": 1775284000929
+    },
+    "1775283192162": {
+      "path": "notes/tcs-wings/process/service-design.md",
+      "sha": "",
+      "repo": "public",
+      "nodeId": "1775283192162",
+      "lastSynced": 1775284000929
     }
   },
   "treeSha": "aee9e0dfbff57dba02869edea558ba8c1ab4b26c",
-  "manifestSha": "28714e68119062cde820f7910941f7a302baff2f"
+  "manifestSha": "773a4794cb3880c78636293c4ca11ed308f20737"
 }

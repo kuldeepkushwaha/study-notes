@@ -176,6 +176,28 @@
                 }
               ]
             }
+          },
+          {
+            "id": "1775283192162",
+            "name": "Service Design",
+            "type": "topic",
+            "content": {
+              "title": "Service Design",
+              "blocks": [
+                {
+                  "id": "1775283215730",
+                  "type": "text",
+                  "label": "What is service design?",
+                  "content": "Service is process of improving customer experience through the research , developing ideas and testing experience.\n\nResearch - It begin by taking to everyone who are affected by this service\nDevelop ideas - IT works with stakeholders to create a variety of ideas that will improve the service\nTesting - IT picks the most appealing idea and build prototypes.\n\nPurpose of service design:\n- To ensure that the new or changed service are designed to meet the changing  requirement of business, for introduction into live environment.\n\n"
+                },
+                {
+                  "id": "1775283821263",
+                  "type": "text",
+                  "label": "Five aspect of service design",
+                  "content": "STAMP\n1) Solution \n2) Tool\n3) Architecture\n4) Measurement system and Metrics\n5) Designing the process needed"
+                }
+              ]
+            }
           }
         ]
       },
