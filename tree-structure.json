@@ -229,6 +229,12 @@
                   "type": "text",
                   "label": "Key terms of sla",
                   "content": "1) Service credit - A credit paid by vendor to client for missing an sla (service default)\n2) Earn back - The ability of the vendor not have to pay the service credit\n"
+                },
+                {
+                  "id": "1775367115939",
+                  "type": "text",
+                  "label": "SLA Models",
+                  "content": "1) Risk-Reward SLA\n2) Risk - Only SLA\n\nRisk Reward SLA: \n- Assign service cried for missing targets\n- provide bonus for achieving sla\n\nRisk Only SLA\n- Assign service credit  for missing targets\n- Do not provide bonus for achieving SLA"
                 }
               ]
             }

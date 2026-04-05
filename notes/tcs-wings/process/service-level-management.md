@@ -18,3 +18,18 @@
 
 
 ---
+
+## SLA Models
+
+1) Risk-Reward SLA
+2) Risk - Only SLA
+
+Risk Reward SLA: 
+- Assign service cried for missing targets
+- provide bonus for achieving sla
+
+Risk Only SLA
+- Assign service credit  for missing targets
+- Do not provide bonus for achieving SLA
+
+---

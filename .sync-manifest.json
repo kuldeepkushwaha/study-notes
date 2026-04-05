@@ -1,64 +1,64 @@
 {
   "version": 1,
-  "lastFullSync": 1775367102589,
+  "lastFullSync": 1775367524848,
   "files": {
     "1": {
       "path": "notes/getting-started.md",
       "sha": "",
       "repo": "public",
       "nodeId": "1",
-      "lastSynced": 1775367102590
+      "lastSynced": 1775367524848
     },
     "1774973172225": {
       "path": "notes/tcs-wings/process/basics-of-itil---reference-document.md",
       "sha": "",
       "repo": "public",
       "nodeId": "1774973172225",
-      "lastSynced": 1775367102590
+      "lastSynced": 1775367524848
     },
     "1774974842607": {
       "path": "notes/tcs-wings/process/itil-core-concept.md",
       "sha": "",
       "repo": "public",
       "nodeId": "1774974842607",
-      "lastSynced": 1775367102590
+      "lastSynced": 1775367524848
     },
     "1775253250431": {
       "path": "notes/tcs-wings/process/strategy-management-and-service-portfolio-management.md",
       "sha": "",
       "repo": "public",
       "nodeId": "1775253250431",
-      "lastSynced": 1775367102590
+      "lastSynced": 1775367524848
     },
     "1775255568191": {
       "path": "notes/tcs-wings/process/demand-management.md",
       "sha": "",
       "repo": "public",
       "nodeId": "1775255568191",
-      "lastSynced": 1775367102590
+      "lastSynced": 1775367524848
     },
     "1775256058214": {
       "path": "notes/tcs-wings/process/financial-managment-of-it-services.md",
       "sha": "",
       "repo": "public",
       "nodeId": "1775256058214",
-      "lastSynced": 1775367102590
+      "lastSynced": 1775367524848
     },
     "1775283192162": {
       "path": "notes/tcs-wings/process/service-design.md",
       "sha": "",
       "repo": "public",
       "nodeId": "1775283192162",
-      "lastSynced": 1775367102590
+      "lastSynced": 1775367524848
     },
     "1775307457217": {
       "path": "notes/tcs-wings/process/service-level-management.md",
       "sha": "",
       "repo": "public",
       "nodeId": "1775307457217",
-      "lastSynced": 1775367102590
+      "lastSynced": 1775367524848
     }
   },
-  "treeSha": "cca3a39ac338f3a4e5ce52e68742608846735dcc",
-  "manifestSha": "f27db812054c1d0341ed0551a0ea2077f602de5b"
+  "treeSha": "b2b007d217c2b20ca42905996887502954257f78",
+  "manifestSha": "85347c99add5cb2f4b76bef348a6134fbee3409b"
 }
