@@ -18,3 +18,15 @@ Reactive availability management
 ![Image](https://i.ibb.co/jvv2DYyN/Capture.jpg)
 
 ---
+
+## 🖼️ Image
+
+![Image](https://i.ibb.co/XZ4fPfBH/Capture.jpg)
+
+---
+
+## 7 R's of availability management
+
+1)
+
+---

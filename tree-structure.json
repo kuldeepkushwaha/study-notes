@@ -257,6 +257,18 @@
                   "type": "image",
                   "label": "",
                   "content": "https://i.ibb.co/jvv2DYyN/Capture.jpg"
+                },
+                {
+                  "id": "1775368044319",
+                  "type": "image",
+                  "label": "",
+                  "content": "https://i.ibb.co/XZ4fPfBH/Capture.jpg"
+                },
+                {
+                  "id": "1775368085679",
+                  "type": "text",
+                  "label": "7 R's of availability management",
+                  "content": "1)"
                 }
               ]
             }
