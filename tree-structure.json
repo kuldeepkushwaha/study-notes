@@ -284,6 +284,34 @@
                 }
               ]
             }
+          },
+          {
+            "id": "1775369320218",
+            "name": "Capacity Management",
+            "type": "topic",
+            "content": {
+              "title": "Capacity Management",
+              "blocks": [
+                {
+                  "id": "1775369465902",
+                  "type": "text",
+                  "label": "What is capacity management",
+                  "content": "The maximum amount of number that can received or contain\n\nWhat is capacity planing ?\nCapacity planing  is the identification and evaluation of short and long  term capacity requirement of  an organization  and development  Plan to satisfy them."
+                },
+                {
+                  "id": "1775370098801",
+                  "type": "image",
+                  "label": "",
+                  "content": "https://i.ibb.co/v6VCY6hd/Capture.jpg"
+                },
+                {
+                  "id": "1775370190476",
+                  "type": "image",
+                  "label": "",
+                  "content": "https://i.ibb.co/1YNV0kW9/Capture.jpg"
+                }
+              ]
+            }
           }
         ]
       },
