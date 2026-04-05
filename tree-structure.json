@@ -210,6 +210,28 @@
                 }
               ]
             }
+          },
+          {
+            "id": "1775307457217",
+            "name": "Service level management",
+            "type": "topic",
+            "content": {
+              "title": "Service level management",
+              "blocks": [
+                {
+                  "id": "1775307476472",
+                  "type": "text",
+                  "label": "Six stage of service level management",
+                  "content": "1) SLA preparation and agreement\n2) service level monitoring\n3) service level reporting \n4) service level reviewing\n5) service level improvement and program\n6) SLA maintenance."
+                },
+                {
+                  "id": "1775366730350",
+                  "type": "text",
+                  "label": "Key terms of sla",
+                  "content": "1) Service credit - A credit paid by vendor to client for missing an sla (service default)\n2) Earn back - The ability of the vendor not have to pay the service credit\n"
+                }
+              ]
+            }
           }
         ]
       },
