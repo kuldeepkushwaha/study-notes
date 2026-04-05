@@ -238,6 +238,28 @@
                 }
               ]
             }
+          },
+          {
+            "id": "1775367526776",
+            "name": "Availability management",
+            "type": "topic",
+            "content": {
+              "title": "Availability management",
+              "blocks": [
+                {
+                  "id": "1775367548382",
+                  "type": "text",
+                  "label": "Defination",
+                  "content": "Availability Management  provide us with a framework where the availability  needs  of the business is understood first and is then delivered\n\nPurpose:\n To ensure the level of availability delivered in all IT services meets the agreed  availability  needs of the business.\n\nProactive availability management\nReactive availability management\n"
+                },
+                {
+                  "id": "1775367901401",
+                  "type": "image",
+                  "label": "",
+                  "content": "https://i.ibb.co/jvv2DYyN/Capture.jpg"
+                }
+              ]
+            }
           }
         ]
       },

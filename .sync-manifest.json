@@ -1,64 +1,71 @@
 {
   "version": 1,
-  "lastFullSync": 1775367524848,
+  "lastFullSync": 1775367971917,
   "files": {
     "1": {
       "path": "notes/getting-started.md",
       "sha": "",
       "repo": "public",
       "nodeId": "1",
-      "lastSynced": 1775367524848
+      "lastSynced": 1775367971917
     },
     "1774973172225": {
       "path": "notes/tcs-wings/process/basics-of-itil---reference-document.md",
       "sha": "",
       "repo": "public",
       "nodeId": "1774973172225",
-      "lastSynced": 1775367524848
+      "lastSynced": 1775367971917
     },
     "1774974842607": {
       "path": "notes/tcs-wings/process/itil-core-concept.md",
       "sha": "",
       "repo": "public",
       "nodeId": "1774974842607",
-      "lastSynced": 1775367524848
+      "lastSynced": 1775367971917
     },
     "1775253250431": {
       "path": "notes/tcs-wings/process/strategy-management-and-service-portfolio-management.md",
       "sha": "",
       "repo": "public",
       "nodeId": "1775253250431",
-      "lastSynced": 1775367524848
+      "lastSynced": 1775367971917
     },
     "1775255568191": {
       "path": "notes/tcs-wings/process/demand-management.md",
       "sha": "",
       "repo": "public",
       "nodeId": "1775255568191",
-      "lastSynced": 1775367524848
+      "lastSynced": 1775367971917
     },
     "1775256058214": {
       "path": "notes/tcs-wings/process/financial-managment-of-it-services.md",
       "sha": "",
       "repo": "public",
       "nodeId": "1775256058214",
-      "lastSynced": 1775367524848
+      "lastSynced": 1775367971917
     },
     "1775283192162": {
       "path": "notes/tcs-wings/process/service-design.md",
       "sha": "",
       "repo": "public",
       "nodeId": "1775283192162",
-      "lastSynced": 1775367524848
+      "lastSynced": 1775367971917
     },
     "1775307457217": {
       "path": "notes/tcs-wings/process/service-level-management.md",
       "sha": "",
       "repo": "public",
       "nodeId": "1775307457217",
-      "lastSynced": 1775367524848
+      "lastSynced": 1775367971917
+    },
+    "1775367526776": {
+      "path": "notes/tcs-wings/process/availability-management.md",
+      "sha": "",
+      "repo": "public",
+      "nodeId": "1775367526776",
+      "lastSynced": 1775367971917
     }
   },
-  "treeSha": "b2b007d217c2b20ca42905996887502954257f78",
-  "manifestSha": "85347c99add5cb2f4b76bef348a6134fbee3409b"
+  "treeSha": "337f55caeeccad91883d82d3ecc6a1c4bdac20e0",
+  "manifestSha": "f477278ea9562a49d6288141723a917a2b45e026"
 }
