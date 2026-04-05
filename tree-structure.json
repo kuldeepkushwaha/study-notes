@@ -268,7 +268,7 @@
                   "id": "1775368085679",
                   "type": "text",
                   "label": "7 R's of availability management",
-                  "content": "1)"
+                  "content": "1) Redundancy\n2) Reputation\n3) Reliablity\n4) Reparability\n5) Recoverablity\n6) Responsive\n7) Robusness"
                 }
               ]
             }

@@ -27,6 +27,12 @@ Reactive availability management
 
 ## 7 R's of availability management
 
-1)
+1) Redundancy
+2) Reputation
+3) Reliablity
+4) Reparability
+5) Recoverablity
+6) Responsive
+7) Robusness
 
 ---
