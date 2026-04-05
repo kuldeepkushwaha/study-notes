@@ -269,6 +269,18 @@
                   "type": "text",
                   "label": "7 R's of availability management",
                   "content": "1) Redundancy\n2) Reputation\n3) Reliablity\n4) Reparability\n5) Recoverablity\n6) Responsive\n7) Robusness"
+                },
+                {
+                  "id": "1775368703083",
+                  "type": "text",
+                  "label": "Measuring and reporting availability ",
+                  "content": "Formula to calculate basic availability as percentage\n\nAvailability = ((AST-DT)/AST)*100)\nAST - agreed service time possible over period\nDT -  The actual downtime recorded"
+                },
+                {
+                  "id": "1775369164908",
+                  "type": "image",
+                  "label": "",
+                  "content": "https://i.ibb.co/ch6fFnHg/Capture.jpg"
                 }
               ]
             }

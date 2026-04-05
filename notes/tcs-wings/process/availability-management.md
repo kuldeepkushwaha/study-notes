@@ -36,3 +36,19 @@ Reactive availability management
 7) Robusness
 
 ---
+
+## Measuring and reporting availability 
+
+Formula to calculate basic availability as percentage
+
+Availability = ((AST-DT)/AST)*100)
+AST - agreed service time possible over period
+DT -  The actual downtime recorded
+
+---
+
+## 🖼️ Image
+
+![Image](https://i.ibb.co/ch6fFnHg/Capture.jpg)
+
+---
